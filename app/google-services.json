@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "320603411326",
+    "firebase_url": "https://senddata-da36c.firebaseio.com",
+    "project_id": "senddata-da36c",
+    "storage_bucket": "senddata-da36c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320603411326:android:ecaca591a697c03d",
+        "android_client_info": {
+          "package_name": "com.android.senddata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320603411326-b943j79lep1o1o574cjdt0moll5p0hag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.senddata",
+            "certificate_hash": "8ba016f9c350d6e6dd713e2b4e822c0d44234ec5"
+          }
+        },
+        {
+          "client_id": "320603411326-5m315cfafk249k3ea5sl6c2gqp26veaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATJqFBQtA1ZdMYZQscJFoqYWs2V6W7DFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320603411326-5m315cfafk249k3ea5sl6c2gqp26veaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
